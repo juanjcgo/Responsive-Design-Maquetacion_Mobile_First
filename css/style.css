@@ -92,7 +92,7 @@ header img {
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url(./assets/icons/abajo.svg);
+    background-image: url("../assets/icons/abajo.svg");
 }
 main {
     width: 100%;
@@ -117,7 +117,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url("./assets/imgs/bitcoin.svg");
+    background-image: url("../assets/imgs/bitcoin.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -210,7 +210,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./assets/icons/vector-bitcoin.svg");
+    background-image: url("../assets/icons/vector-bitcoin.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -220,7 +220,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./assets/icons/vector-ethereum.svg");
+    background-image: url("../assets/icons/vector-ethereum.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -254,7 +254,7 @@ main {
     height: 25px;
     top: -10px;
     left: calc(50% - 20px);
-    background-image: url("./assets/imgs/papa.svg");
+    background-image: url("../assets/imgs/papa.svg");
 }
 .product-detail--title {
     width: 90%;
@@ -298,25 +298,25 @@ main {
     margin-bottom: 10px;
 }
 .product-datail--card .clock {
-    background-image: url("./assets/icons/reloj.svg");
+    background-image: url("../assets/icons/reloj.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .product-datail--card .vista {
-    background-image: url("./assets/icons/vista.svg");
+    background-image: url("../assets/icons/vista.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .product-datail--card .dolar {
-    background-image: url("./assets/icons/dolar.svg");
+    background-image: url("../assets/icons/dolar.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .product-datail--card .bien {
-    background-image: url("./assets/icons/bien.svg");
+    background-image: url("../assets/icons/bien.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -338,7 +338,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url("./assets/imgs/bitcoinbaby.jpg");
+    background-image: url("../assets/imgs/bitcoinbaby.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -476,7 +476,7 @@ main {
     display: inline-block;  /* Para que se pueda ver  */
     width: 20px;
     height: 20px;
-    background-image: url("./assets/icons/adelante.svg");
+    background-image: url("../assets/icons/adelante.svg");
     vertical-align: text-bottom;  /* para alinear el icono y el texto */
 }
 footer {
